@@ -8,6 +8,7 @@
 >
 > > Approach: working with git and github in a remote team
 > > Time to accomplish 8h+ | Due Date 2020-12-04 | Team-Size: 4
+> > Deployed https://hermannmarx.github.io/cookbook/
 
 ---
 
